@@ -19,6 +19,7 @@ public class HelloWorldApp {
         HelloWord hello = new HelloWord();
         
         hello.sayHello("ADEZ");
+        hello.sayHello("ITESS");
     }
     
 }
