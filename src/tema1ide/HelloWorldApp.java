@@ -14,7 +14,7 @@ package tema1ide;
  *
  * @author danie
  */
-public class HelloWorldApp {
+public class HelloWorldApp{
     public static void main(String [] args){
         HelloWord hello = new HelloWord();
         
