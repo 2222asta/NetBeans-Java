@@ -58,7 +58,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" + "controlNumber=" + controlNumber + ", name=" + name + ", career=" + career + ", gender=" + gender + '}';
+        return "Student information:=" + "controlNumber=" + controlNumber + ", name=" + name + ", career=" + career + ", gender=" + gender + '}';
     }
   
   
